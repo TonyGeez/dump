@@ -16,7 +16,7 @@ Requires Node.js 14.18 or newer.
 Run it from the root of the project you want to dump:
 
 ```bash
-dump-code
+dump
 ```
 
 This writes `dump.md` in the current directory.

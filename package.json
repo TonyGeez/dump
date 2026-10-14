@@ -20,7 +20,7 @@
   "author": "TonyGeez",
   "type": "module",
   "bin": {
-    "dumpit": "index.js"
+    "dump": "index.js"
   },
   "dependencies": {
     "eslint": "^10.11.0"
